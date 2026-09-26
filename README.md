@@ -36,7 +36,7 @@ rh-ia-formation/
 Cloner le dépôt puis installer les dépendances de chaque partie :
 
 ```bash
-git clone https://github.com/benboudouhwissam-netizen/rh-ia-formation.git
+git clone https://github.com/amadoucoulibaly280304-afk/rh-ia-formation.git
 cd rh-ia-formation
 
 cd backend
